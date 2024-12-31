@@ -16,6 +16,8 @@ In this repository, we:
 - **Compare** the performance and parameter efficiency of LoRA against traditional full fine-tuning.
 - **Visualize** the results through accuracy and loss comparisons.
 
+![LoRA](lora.png)
+
 ---
 
 ## **Results**
